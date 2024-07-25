@@ -378,5 +378,29 @@
 			<type>String</type>
 			<isOverride>false</isOverride>
 			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-Penta/MCI/aefd-esb-in/flowCode</name>
+			<value>rexel.Penta.aefd</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-Penta/MCI/aefd-esb-in/taskCode</name>
+			<value>MCS-REST-47</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
+		</globalVariable><globalVariable>
+			<name>/Services/MC-Penta/MCI/aefd-esb-in/serviceName</name>
+			<value>Penta.aefd.esb-in</value>
+			<deploymentSettable>false</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<isOverride>false</isOverride>
+			<useLookupValue>false</useLookupValue>
 		</globalVariable></globalVariables>
 </repository>
